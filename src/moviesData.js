@@ -15,4 +15,12 @@ export const movies = [
     rating: 4,
     trailer: "https://www.youtube.com/embed/YoHD9XEInc0",
   },
+  {
+    id: 3,
+    title: "Inception",
+    description: "A thief enters dreams to steal secrets.",
+    posterURL: "https://i.ibb.co/2M7M5dC/inception.jpg",
+    rating: 4,
+    trailer: "https://www.youtube.com/embed/YoHD9XEInc0",
+  },
 ];
